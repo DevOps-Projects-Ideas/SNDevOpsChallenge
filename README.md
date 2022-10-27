@@ -1,1 +1,1 @@
-# SNDevOpsChallenge
+# Senior DevOps Challenge
